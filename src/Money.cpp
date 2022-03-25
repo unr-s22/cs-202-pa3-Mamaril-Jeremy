@@ -1,3 +1,4 @@
+//Jeremy Mamaril
 #include "Money.h"
 
 Money::Money() : m_dollars(0), m_cents(0){}
