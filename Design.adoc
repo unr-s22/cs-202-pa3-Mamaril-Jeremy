@@ -1,0 +1,17 @@
+= Programming Assignment 3
+
+= Assignments
+
+== Money Class
+
+* Jeremy Mamaril
+
+== Account Class
+
+* Tanner Ashby
+
+== Main.cpp
+
+* Jeremy Mamaril
+
+* Tanner Ashby
